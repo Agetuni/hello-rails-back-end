@@ -8,10 +8,3 @@ Rails.application.routes.draw do
   root "root#index"
 
 end
-
-
-# Rails.application.routes.draw do
-#   # Define your application routes per the DSL 
-  
-#   get 'api/v1/greetings', to: 'api/v1/greetings#index'
-# end
