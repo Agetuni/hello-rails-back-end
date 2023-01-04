@@ -1,13 +1,5 @@
 <a name="readme-top">HELLO-REACT-RAILS</a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
- 
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -37,6 +29,7 @@
 # 📖 HELLO REACT RAILS <a name="about-project"></a>
 
 > A simple web api application that has a front-end built using React JS and uses a web service from a ruby on rails driven backend
+[Front-end Link](https://github.com/Agetuni/hello-react-front-end/pull/1)
 
 **Hello react rails** is a simple web app to test working with rails and react.
 
@@ -155,6 +148,9 @@ To run the project, execute the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+## Future-features <a name="future-features"></a>
+
+ - Inhance system to addd mulitple languages
 
 ## 🤝 Contributing <a name="contributing"></a>
 
