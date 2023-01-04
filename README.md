@@ -86,7 +86,7 @@
 
 > Describe how a new developer could make use of your project.
 
-To get a local clone the repository https://github.com/NATASHA-ct/fullstack-rails-react.git
+To get a local clone the repository https://github.com/agetuni/fullstack-rails-react.git
 
 ### Prerequisites
 
@@ -103,7 +103,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 $ git clone
 
- https://github.com/NATASHA-ct/fullstack-rails-react.git
+ https://github.com/agetuni/fullstack-rails-react.git
 
 $ cd hello_rails_react
 
