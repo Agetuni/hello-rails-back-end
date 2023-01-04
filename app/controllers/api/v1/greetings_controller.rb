@@ -4,9 +4,4 @@ class Api::V1::GreetingsController < ApplicationController
     @greetings = Greeting.all.sample
     render json: @greetings
   end
-
-  # def show
-  #   @greetings = Greeting.all.sample
-  #   render json: @greetings
-  # end
 end
